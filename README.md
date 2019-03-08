@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+first you need to install react-reduc by the following command:
+### `npm install --save redux react-redux`
+
 In the project directory, you can run:
 
 ### `npm start`
